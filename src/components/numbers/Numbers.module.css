@@ -1,0 +1,11 @@
+.numbersList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 2rem;
+    background-color: red;
+    width: 150px;
+}
+.number{
+    font-size: 2rem;
+}

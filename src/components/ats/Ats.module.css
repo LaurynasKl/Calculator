@@ -1,0 +1,31 @@
+.full{
+    display: flex;
+}
+.numbersList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 2rem;
+    background-color: red;
+    width: 150px;
+}
+.number{
+    font-size: 2rem;
+}
+.numberZero{
+    display: flex;
+    font-size: 2rem;
+}
+.ats{
+    background-color: #ffa500;
+    font-size: 2rem;
+    text-align: center;
+}
+.symbol {
+    display: grid;
+    gap: 1rem;
+    padding: 1rem;
+}
+.btn{
+    font-size: 1.5rem;
+}
